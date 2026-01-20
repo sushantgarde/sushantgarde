@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px"> **SUSHANT G.** <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px">
+## SUSHANT G.
+
+> Building data-driven intelligent systems with a focus on **Machine Learning, Computer Vision, and Deep Learning**.
+
 
 <div align="center">
   
@@ -9,7 +12,8 @@
 ║    🤖 ML/AI ENGINEER | DATA SCIENTIST | DEEP LEARNING GEEK    ║
 ║    🎯 HUNTING FOR: INTERNSHIPS & PLACEMENTS                   ║
 ║    ⚡ BUILDING: INTELLIGENT SYSTEMS THAT LEARN & EVOLVE       ║
-║                                                                ║
+║     > Building data-driven intelligent systems with a focus on ║
+║          Machine Learning, Computer Vision, and Deep Learning. ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
@@ -21,7 +25,7 @@
 
 ## 🌌 About Me - The ML Journey
 
-<img align="right" src="https://media.giphy.com/media/SWoRKslHVtqjXVJV0u/giphy.gif" width="200px" />
+
 
 I'm a **passionate ML/AI engineer** obsessed with building **intelligent systems** that solve real-world problems. My playground? **Deep Learning, Computer Vision, and Data Science**. I breathe TensorFlow, dream in PyTorch, and speak fluent Python.
 
@@ -81,63 +85,96 @@ I'm a **passionate ML/AI engineer** obsessed with building **intelligent systems
 
 ## 🏆 **FLAGSHIP PROJECTS**
 
-### 🔍 **1. Image Similarity Detection - Computer Vision Powerhouse**
+### 1️⃣ Image Similarity Detection (Latest)
+🔗 https://github.com/sushantgarde/image_similarity  
+**Domain:** Computer Vision, Deep Learning  
+- Deep image similarity system using **ResNet50**
+- Metric learning with **Triplet Loss**
+- Designed for semantic image retrieval at scale  
 
-<img src="https://media.giphy.com/media/3o6ZsiKvBRKmZWKqZi/giphy.gif" width="300px" align="right" />
-
-📍 [**sushantgarde/image_similarity**](https://github.com/sushantgarde/image_similarity)
-
-**Mission:** Find semantic twins among millions of images using deep neural networks.
-
-**What makes it special:**
-- 🎯 ResNet50 backbone for powerful feature extraction
-- 🔗 Triplet loss learning for metric learning
-- ⚡ Lightning-fast similarity computation
-- 📸 Handles diverse image types with grace
-
-**Technologies:** Python | TensorFlow | ResNet50 | Deep Learning | Computer Vision
-
-**Impact:** Enterprise-grade image retrieval system
+**Tech Stack:** Python, TensorFlow, ResNet50, Deep Learning  
 
 ---
 
-### 🚨 **2. Deepfake Detection System - AI Fraud Detector**
+### 2️⃣ Deepfake Detection System
+🔗 https://github.com/sushantgarde/deepfake_detection  
+**Domain:** AI Safety, Computer Vision  
+- CNN-based **real vs fake image detection**
+- Focused on identifying AI-generated media and deepfakes  
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px" align="right" />
-
-📍 [**sushantgarde/deepfake_detection**](https://github.com/sushantgarde/deepfake_detection)
-
-**Mission:** Separate fact from fiction. Identify AI-generated images vs authentic ones.
-
-**Superpowers:**
-- 🎭 Real vs Fake classification with high accuracy
-- 🔍 Detects synthetic media & AI-generated content
-- 🛡️ Combats digital fraud & misinformation
-- 🧠 Trained on diverse deepfake datasets
-
-**Technologies:** Python | Real/Fake API | Deep Learning | CNN | Computer Vision
-
-**Impact:** Protects against deepfakes and malicious AI-generated media
+**Tech Stack:** Python, CNN, Deep Learning  
 
 ---
 
-### 🔎 **3. SearchAlike - Semantic Image Search Engine (Contributor)**
+### 3️⃣ SearchAlike – Semantic Image Search (Contributor)
+🔗 https://github.com/Vedant2004X/SearchAlike  
+**Domain:** Semantic Search, Metric Learning  
+- Contributed to a semantic image search engine
+- Implemented **Triplet Network architecture**
+- Uses **ResNet50** for deep feature extraction  
 
-<img src="https://media.giphy.com/media/l0HlDtKPoYJhFmDvG/giphy.gif" width="300px" align="right" />
+**Tech Stack:** Python, ResNet50, Triplet Loss, Deep Learning  
 
-📍 [**Vedant2004X/SearchAlike**](https://github.com/Vedant2004X/SearchAlike)
+---
 
-**Mission:** Google-level image search powered by triplet networks.
+### 4️⃣ Personal Portfolio Website
+🔗 https://github.com/sushantgarde/My-Portfolio  
+**Domain:** Web Development  
+- Personal portfolio showcasing skills and projects
+- Responsive and clean UI  
 
-**Technical Marvel:**
-- 🎯 Triplet Network architecture for metric learning
-- 🧠 ResNet50 as backbone for deep feature extraction
-- 🚀 Scalable to millions of images
-- 🎨 Finds semantically similar images, not just pixel matches
+**Tech Stack:** HTML, CSS, JavaScript  
 
-**Technologies:** Python | Triplet Loss | ResNet50 | Deep Learning | Metric Learning
+---
 
-**Impact:** Production-ready semantic search engine
+### 5️⃣ Email Sender Application
+🔗 https://github.com/sushantgarde/EmailSender  
+**Domain:** Backend / Automation  
+- Application for sending automated emails
+- Demonstrates backend logic and email handling  
+
+**Tech Stack:** Java / Python (based on implementation)  
+
+---
+
+### 6️⃣ Smart Expense Tracker
+🔗 https://github.com/sushantgarde/Smart-Expense-Tracker  
+**Domain:** Finance Management  
+- Tracks income and expenses efficiently
+- Categorization and basic reporting features  
+
+**Tech Stack:** Java, Database (MySQL)  
+
+---
+
+### 7️⃣ Attendance Management System
+🔗 https://github.com/sushantgarde/Attendance-Management-System  
+**Domain:** Academic Management System  
+- Student attendance tracking system
+- Generates defaulter lists and reports  
+
+**Tech Stack:** Java, MySQL  
+
+---
+
+### 8️⃣ Library Management System
+🔗 https://github.com/sushantgarde/Library-Management-System  
+**Domain:** Management System  
+- Handles book issuing, returns, and records
+- CRUD-based system design  
+
+**Tech Stack:** Java, Database  
+
+---
+
+### 9️⃣ Cafe Billing System (First Project)
+🔗 https://github.com/sushantgarde/Cafe-Billing-System  
+**Domain:** Billing & POS System  
+- Simple billing system for cafes
+- Demonstrates core programming fundamentals  
+
+**Tech Stack:** C / C++ / Java (based on implementation)  
+
 
 ---
 
@@ -148,8 +185,6 @@ I'm a **passionate ML/AI engineer** obsessed with building **intelligent systems
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushantgarde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgarde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantgarde&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
